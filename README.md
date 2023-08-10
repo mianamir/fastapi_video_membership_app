@@ -1,2 +1,1 @@
-# fastapi_video_membership_app
-Fastapi Video Membership App
+# Membership Platform Using Python, FastAPI, Cassandra database(AstraDB)
